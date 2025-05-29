@@ -45,7 +45,7 @@ Aquí algunos de los proyectos que estoy desarrollando o practicando:
 Estoy abierto a oportunidades, mentorías y colaboraciones. Si estás buscando a alguien con muchas ganas de aprender y crecer, ¡escríbeme!
 
 - 📧 [manu.pede@gmail.com](manu.pede@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/manel-pedrero-1233a074/))
 - 💻 [Portfolio (si tienes uno)](https://tuportfolio.com)
 
 ---
